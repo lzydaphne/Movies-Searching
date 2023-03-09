@@ -1,5 +1,5 @@
 Project Quick Look:
-![image](https://user-images.githubusercontent.com/52618403/224051271-faf96caa-fefa-4d0a-86b9-47f38a451e41.png)
+![image](https://user-images.githubusercontent.com/52618403/224051581-5ea1752d-fed6-468e-aa8e-701b8da23415.png)
 
 # Getting Started with Create React App
 
